@@ -22,6 +22,8 @@
   - Translated Script
   - Translated UI(Config, Image dalam story, Extra)
 
+NOTE PENTING : Untuk yang sudah pernah memainankan Tsui No Stella dari Ryuugames maupun dari Steam diharapkan untuk membackup Savedata itu sebelum instalasi Patch
+
 <details open> 
   <summary><h2>Cara Instalasi Patch</h2></summary>
 
@@ -30,3 +32,11 @@
   - Drag And Drop isi dari rar itu dan taruh di direktori gamenya
     <p align='center'><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9deTOJtgn3ANR-kgurIdPbdj9a0QPew37Vyp5YMI_K8zE5aNjSI2GHmeHjbTOOgi3-_wc5RaorbrcGUcG0c5UTIQ6B5GAnAzRDSwOth4jci1uTis0hiCGU3crFIgt_6tSfbukbsLTy3Wdzi3qPzdsf5RGXvz-LSMFK-F9o-1VmnES6wmSGlqrAa3vACY/s827/Screenshot%202025-05-02%20184322.png"
   - Setelah selesai sesuai di gambar maka patch telah terpasang dan tinggal dimainkan
+
+<details open> 
+  <summary><h2>Tools</h2></summary>
+
+  - Parser : Untuk memparser bagian properti bahasa yang di pilih ke txt
+  - Repacker : Untuk merepack txt ke ast kembali berdasarkan jumlah baris dan masih terjadi masalah dalam hasil repacker yaitu
+               hasil simbol petik "" yang berlebih jadi diharapkan untuk di hapus dulu
+  - GeneratePackFile2.exe : Untuk membuat patch untuk Artemis Engine
