@@ -24,6 +24,8 @@
 
 NOTE PENTING : Untuk yang sudah pernah memainankan Tsui No Stella dari Ryuugames maupun dari Steam diharapkan untuk membackup Savedata itu sebelum instalasi Patch
 
+[Unduh Patch](https://github.com/Walkedharmony/Tsui-No-Stella-IDN/releases/tag/1.0)
+
 <details open> 
   <summary><h2>Cara Instalasi Patch</h2></summary>
 
