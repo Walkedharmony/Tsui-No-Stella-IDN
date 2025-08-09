@@ -40,7 +40,7 @@ NOTE PENTING : Untuk yang sudah pernah memainankan Tsui No Stella dari Ryuugames
 
   - Jika sudah mempunyai base gamenya di PC entah dari ryuu/steam ver bisa di transfer ke android dan rename nama Archivesnya dari `Stella_of_The_End.pfs` ke `root.pfs`
   - Lakukan hal yang sama pada `Stella_of_The_End.pfs.000` menjadi `root.pfs.000`
-  - Jika sudah selesai maka kalian bisa unduh [Patchnya](https://drive.google.com/file/d/1O1RdMX9QBEVEL7kVCL-0Zi6BC2U1Zr4T/view)
+  - Jika sudah selesai maka kalian bisa unduh [Patchnya](https://pixeldrain.com/u/115uBJUt)
   - Dibawah ini adalah base game dari PC yang di transfer ke android
     <p align='center'><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9sXevT20ZVst9LZoMya4K3CL9oR3HfSwrKqniBM0i79H_680aIvsOgtBn_bscMYyiJTQ7rkWs3F1uFV6LFKc3wAxIBjWTP8KptXmtw14xBfnjMGYU33OY7VBBPLg45wGKURIpTuMDCfLsOLs96UcrNoVDGALXBu4QYyINyyzo_ymiwEFEhQPyGRoEej4/s823/Screenshot%202025-05-04%20174247.png" 
  - Dan di bawah ini adalah hasil akhir dari rename + patchnya
